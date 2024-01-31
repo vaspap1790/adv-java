@@ -18,7 +18,7 @@ public class Theory {
      */
 
     /**
-     * Program: a sequence of instruction for a computer to execute
+     * Program: a sequence of instructions for a computer to execute
      */
 
     /**
@@ -27,10 +27,10 @@ public class Theory {
      */
 
     /**
-     *  Scheduler: Operating system module that selects the next jobs to be admitted into the system
-     *  and the next process to run
-     *  Ensures efficient distribution of the processor among our threads.
-     *  Assigns prioritization to these threads according to set rules
+     * Scheduler: Operating system module that selects the next jobs to be admitted into the system
+     * and the next process to run
+     * Ensures efficient distribution of the processor among our threads.
+     * Assigns prioritization to these threads according to set rules
      */
 
     /**
